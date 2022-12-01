@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T17:30:05.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="HRa-v8bP5GIe896geVDs" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T17:54:47.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="1E0-jO91oMPg23dDwDWf" version="20.6.0" type="github">
   <diagram id="_D2GM5yeNmXsg2AjUnIa" name="Page-1">
-    <mxGraphModel dx="1937" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,14 @@
         </mxCell>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-57" value="Gi 2/13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6s0p3I9b8KLNKxU6c0i5-51" vertex="1" connectable="0">
           <mxGeometry x="0.7241" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6s0p3I9b8KLNKxU6c0i5-1" value="&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:124pt&quot; width=&quot;165&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;br/&gt;  &lt;td style=&quot;height:15.75pt;width:124pt&quot; width=&quot;165&quot; class=&quot;xl66&quot; height=&quot;21&quot;&gt;148.4.101.99&lt;br&gt;WS-C3750K-24P-S&lt;br&gt;LLC_PoE_Plus&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="310" width="120" height="50" as="geometry" />
+        <mxCell id="6s0p3I9b8KLNKxU6c0i5-1" value="&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:124pt&quot; width=&quot;165&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;br/&gt;  &lt;td style=&quot;height:15.75pt;width:124pt&quot; width=&quot;165&quot; class=&quot;xl66&quot; height=&quot;21&quot;&gt;148.4.101.99&lt;br&gt;WS-C3750K-24P-S&lt;br&gt;LLC_PoE_Plus&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;" parent="1" vertex="1">
+          <mxGeometry x="432" y="270" width="120" height="50" as="geometry" />
         </mxCell>
         <object label="148.4.101.66&lt;br&gt;WS-6509-E&amp;nbsp;&amp;nbsp;&lt;br&gt;LLC_M_RM&amp;nbsp;&amp;nbsp;" id="6s0p3I9b8KLNKxU6c0i5-2">
-          <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;points=[[0,0.5,0,0,0],[0,0.98,0,0,0],[0.16,0.24,0,0,0],[0.25,0,0,0,0],[0.33,0,0,0,0],[0.5,0,0,0,0],[0.5,0.98,0,0,0],[0.67,0,0,0,0],[0.75,0,0,0,0],[0.87,0.74,0,0,0],[0.98,0.5,0,0,0],[1,0,0,0,0]];" parent="1" vertex="1">
+          <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;points=[[0,0.5,0,0,0],[0,0.98,0,0,0],[0.16,0.24,0,0,0],[0.25,0,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,0.98,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[0.75,0,0,0,0],[0.87,0.74,0,0,0],[0.98,0.5,0,0,0],[1,0,0,0,0]];" parent="1" vertex="1">
             <mxGeometry x="320" y="150" width="116" height="50" as="geometry" />
           </mxCell>
         </object>
@@ -40,20 +40,20 @@
         </mxCell>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-72" value="10Gi 1/1/2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6s0p3I9b8KLNKxU6c0i5-71" vertex="1" connectable="0">
           <mxGeometry x="-0.8745" y="1" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iD0rY3E5EVlvnI-12X9--8" value="Gi 5/2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6s0p3I9b8KLNKxU6c0i5-71">
           <mxGeometry x="0.0044" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="58" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;table width=&quot;165&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;height:15.75pt;width:124pt&quot; width=&quot;165&quot; class=&quot;xl66&quot; height=&quot;21&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;148.4.101.20&lt;br&gt;WS-C3750X-48P&lt;br&gt;CH_Basement_A_Core" id="6s0p3I9b8KLNKxU6c0i5-24">
           <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-            <mxGeometry x="-200" y="200" width="116" height="50" as="geometry" />
+            <mxGeometry x="-320" y="200" width="116" height="50" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="6s0p3I9b8KLNKxU6c0i5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6s0p3I9b8KLNKxU6c0i5-25" target="6s0p3I9b8KLNKxU6c0i5-2" edge="1">
+        <mxCell id="6s0p3I9b8KLNKxU6c0i5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="6s0p3I9b8KLNKxU6c0i5-25" target="6s0p3I9b8KLNKxU6c0i5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-75" value="Gi 1/0/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6s0p3I9b8KLNKxU6c0i5-74" vertex="1" connectable="0">
@@ -68,7 +68,7 @@
         </mxCell>
         <object label="&lt;br&gt;148.4.101.106&lt;br&gt;WS-C3750K-24P-S&lt;br&gt;BK_E_Sport" id="6s0p3I9b8KLNKxU6c0i5-25">
           <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;labelPosition=center;" parent="1" vertex="1">
-            <mxGeometry x="560" y="150" width="116" height="50" as="geometry" />
+            <mxGeometry x="570" y="150" width="116" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="6s0p3I9b8KLNKxU6c0i5-28" target="6s0p3I9b8KLNKxU6c0i5-2" edge="1">
@@ -90,7 +90,7 @@
         </mxCell>
         <object label="&lt;table width=&quot;165&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;height:15.75pt;width:124pt&quot; width=&quot;165&quot; class=&quot;xl66&quot; height=&quot;21&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;148.4.101.21&lt;br&gt;WS-C3750X-48P&lt;br&gt;CH_Basement_A_Core" id="6s0p3I9b8KLNKxU6c0i5-28">
           <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-            <mxGeometry x="-320" y="240" width="116" height="50" as="geometry" />
+            <mxGeometry x="-440" y="240" width="116" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="6s0p3I9b8KLNKxU6c0i5-36" edge="1">
@@ -101,7 +101,7 @@
         </mxCell>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-40" value="Gi 2/6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6s0p3I9b8KLNKxU6c0i5-37" vertex="1" connectable="0">
           <mxGeometry x="-0.7328" relative="1" as="geometry">
-            <mxPoint x="41" as="offset" />
+            <mxPoint x="77" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-53" value="Gi 1/13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6s0p3I9b8KLNKxU6c0i5-37" vertex="1" connectable="0">
@@ -111,7 +111,7 @@
         </mxCell>
         <object label="148.4.101.111&lt;br&gt;WS-C3750X-48P-S&lt;br&gt;WC_1FL" id="6s0p3I9b8KLNKxU6c0i5-36">
           <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-            <mxGeometry x="720" y="-50" width="116" height="50" as="geometry" />
+            <mxGeometry x="960" y="-50" width="116" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="iD0rY3E5EVlvnI-12X9--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="6s0p3I9b8KLNKxU6c0i5-42">
@@ -121,18 +121,18 @@
         </mxCell>
         <mxCell id="iD0rY3E5EVlvnI-12X9--7" value="10Gi 1/1/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iD0rY3E5EVlvnI-12X9--6">
           <mxGeometry x="-0.6545" y="-1" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
+            <mxPoint x="-43" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;table width=&quot;165&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;height:15.75pt;width:124pt&quot; width=&quot;165&quot; class=&quot;xl66&quot; height=&quot;21&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;148.4.101.136&amp;nbsp;&amp;nbsp;&lt;br&gt;WS-C3750X-48P&amp;nbsp;&amp;nbsp;&lt;br&gt;CH_Esports&amp;nbsp; &amp;nbsp;" id="6s0p3I9b8KLNKxU6c0i5-42">
           <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;" parent="1" vertex="1">
-            <mxGeometry x="-200" y="110" width="116" height="50" as="geometry" />
+            <mxGeometry x="-320" y="110" width="116" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="298.0344827586209" y="-101.99999999999977" as="sourcePoint" />
-            <mxPoint x="378.0344827586209" y="157.99999999999977" as="targetPoint" />
+            <mxPoint x="378" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6s0p3I9b8KLNKxU6c0i5-79" value="Gi 1/0/2&lt;br&gt;Gi 1/0/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6s0p3I9b8KLNKxU6c0i5-78" vertex="1" connectable="0">
@@ -178,16 +178,11 @@
         </mxCell>
         <mxCell id="iD0rY3E5EVlvnI-12X9--14" value="Gi 5/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iD0rY3E5EVlvnI-12X9--13">
           <mxGeometry x="-0.7307" relative="1" as="geometry">
-            <mxPoint x="6" as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;br&gt;148.4.101.64&amp;nbsp;&amp;nbsp;&lt;br&gt;WS-C3750K-24P-S&amp;nbsp;&amp;nbsp;&lt;br&gt;BKServerFarm&amp;nbsp;&amp;nbsp;" id="6s0p3I9b8KLNKxU6c0i5-93">
-          <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;" parent="1" vertex="1">
-            <mxGeometry x="120" y="320" width="116" height="50" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="iD0rY3E5EVlvnI-12X9--11" value="Conoly Hall" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#4A68FF;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-110" width="360" height="510" as="geometry" />
+          <mxGeometry x="-480" y="-110" width="360" height="510" as="geometry" />
         </mxCell>
         <mxCell id="iD0rY3E5EVlvnI-12X9--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iD0rY3E5EVlvnI-12X9--15" target="6s0p3I9b8KLNKxU6c0i5-2">
           <mxGeometry relative="1" as="geometry" />
@@ -232,22 +227,17 @@
         </mxCell>
         <mxCell id="iD0rY3E5EVlvnI-12X9--27" value="Gi 1/0/47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iD0rY3E5EVlvnI-12X9--26">
           <mxGeometry x="-0.7089" y="1" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;br&gt;148.4.101.192&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;WS-C3750K-48P-S&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;B-LLC_SOE&amp;nbsp; &amp;nbsp;&amp;nbsp;" id="iD0rY3E5EVlvnI-12X9--24">
-          <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;" vertex="1" parent="1">
-            <mxGeometry x="120" y="390" width="116" height="50" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="iD0rY3E5EVlvnI-12X9--33" value="G" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iD0rY3E5EVlvnI-12X9--29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iD0rY3E5EVlvnI-12X9--35" value="Gi 1/1/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iD0rY3E5EVlvnI-12X9--33">
+        <mxCell id="iD0rY3E5EVlvnI-12X9--35" value="10Gi 1/1/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iD0rY3E5EVlvnI-12X9--33">
           <mxGeometry x="-0.8229" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;br&gt;148.4.101.26&lt;br&gt;WS-C3750X-48P-S&lt;br&gt;Pratt_BKLYN_10G" id="iD0rY3E5EVlvnI-12X9--29">
@@ -259,8 +249,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480.0588235294117" y="225" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="1145" />
-              <mxPoint x="520" y="187" />
+              <mxPoint x="560" y="1145" />
+              <mxPoint x="560" y="200" />
+              <mxPoint x="421" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -299,9 +290,41 @@
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;div style=&quot;&quot;&gt;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: initial; color: rgb(0, 0, 0); --darkreader-inline-bgcolor: initial; --darkreader-inline-color:#e8e6e3;&quot;&gt;148.4.101.105&amp;nbsp;&lt;/span&gt;&lt;/div&gt;WS-C3750X-24P-S&amp;nbsp;&lt;br&gt;BK_LLC_5FL&amp;nbsp;" id="iD0rY3E5EVlvnI-12X9--43">
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: initial; color: rgb(0, 0, 0); --darkreader-inline-bgcolor: initial; --darkreader-inline-color:#e8e6e3;&quot;&gt;148.4.101.105&amp;nbsp;&lt;/span&gt;&lt;/div&gt;WS-C3750X-24P-S&amp;nbsp;&lt;br&gt;Bkl_LLC_5FL&amp;nbsp;" id="iD0rY3E5EVlvnI-12X9--43">
           <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;" vertex="1" parent="1">
             <mxGeometry x="436" y="-250" width="116" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="iD0rY3E5EVlvnI-12X9--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iD0rY3E5EVlvnI-12X9--54" target="6s0p3I9b8KLNKxU6c0i5-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="275" />
+              <mxPoint x="350" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD0rY3E5EVlvnI-12X9--58" value="Gi 2/8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iD0rY3E5EVlvnI-12X9--57">
+          <mxGeometry x="0.8855" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD0rY3E5EVlvnI-12X9--54" value="&lt;br&gt;&lt;table width=&quot;165&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.75pt&quot; height=&quot;21&quot;&gt;  &lt;td style=&quot;height:15.75pt;width:124pt&quot; width=&quot;165&quot; class=&quot;xl66&quot; height=&quot;21&quot;&gt;148.4.101.100&lt;br&gt;WS-C3750K-48P-S&lt;br&gt;LLC_Basement&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=left;outlineConnect=0;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iD0rY3E5EVlvnI-12X9--63" value="Library Learning Center" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#4A68FF;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-310" width="750" height="830" as="geometry">
+            <mxRectangle x="20" y="-310" width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;br&gt;148.4.101.192&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;WS-C3750K-48P-S&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;B-LLC_SOE&amp;nbsp; &amp;nbsp;&amp;nbsp;" id="iD0rY3E5EVlvnI-12X9--24">
+          <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;" vertex="1" parent="iD0rY3E5EVlvnI-12X9--63">
+            <mxGeometry x="130" y="750" width="116" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;br&gt;148.4.101.64&amp;nbsp;&amp;nbsp;&lt;br&gt;WS-C3750K-24P-S&amp;nbsp;&amp;nbsp;&lt;br&gt;BKServerFarm&amp;nbsp;&amp;nbsp;" id="6s0p3I9b8KLNKxU6c0i5-93">
+          <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=right;outlineConnect=0;labelPosition=left;" parent="iD0rY3E5EVlvnI-12X9--63" vertex="1">
+            <mxGeometry x="120" y="660" width="116" height="50" as="geometry" />
           </mxCell>
         </object>
       </root>
